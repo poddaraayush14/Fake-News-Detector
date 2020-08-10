@@ -8,6 +8,6 @@ The model uses the Passive Aggressive Classifier which uses learns from the give
 
 The original dataset used has label as 1's and 0's:
 	-> 1 : Unreliable
-	-> 2 : Reliable
+	-> 0 : Reliable
 
 The necessary transformations in the dataset have been made to process the text.

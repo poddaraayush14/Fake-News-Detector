@@ -1,0 +1,13 @@
+Fake news detection model uses basics of Natural Learning Process and Machine Learning.
+
+Libraries used :
+	1. sklearn
+	2. pandas
+
+The model uses the Passive Aggressive Classifier which uses learns from the given dataset, finds the weight of the processed text, and finally predicts whether the news is fake or real.
+
+The original dataset used has label as 1's and 0's:
+	-> 1 : Unreliable
+	-> 2 : Reliable
+
+The necessary transformations in the dataset have been made to process the text.
